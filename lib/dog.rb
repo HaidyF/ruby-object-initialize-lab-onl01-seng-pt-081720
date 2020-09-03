@@ -5,4 +5,4 @@ class Dog
   end
 end
 
-Mutt = dog.new
+Mutt = Dog.new
