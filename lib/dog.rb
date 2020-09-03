@@ -3,5 +3,5 @@ class Dog
     @name = name
     @breed = breed
   end
-  breed = Mutt
+breed.new = "Mutt"
 end
